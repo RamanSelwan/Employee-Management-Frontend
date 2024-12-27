@@ -102,7 +102,7 @@ const EmployeeManagement = () => {
       <table className="w-full bg-white shadow-md rounded-lg border-collapse">
         <thead>
           <tr className="bg-gray-200 text-gray-700">
-            <th className="p-3 text-left">#</th>
+            <th className="p-3 text-left">Sr No. </th>
             <th className="p-3 text-left">Name</th>
             <th className="p-3 text-left">Email</th>
             <th className="p-3 text-left">Phone</th>
